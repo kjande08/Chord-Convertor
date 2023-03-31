@@ -1,0 +1,15 @@
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/bin/Debug/net7.0/Music Theory Chord Translator
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/bin/Debug/net7.0/Music Theory Chord Translator.deps.json
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/bin/Debug/net7.0/Music Theory Chord Translator.runtimeconfig.json
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/bin/Debug/net7.0/Music Theory Chord Translator.dll
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/bin/Debug/net7.0/Music Theory Chord Translator.pdb
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/obj/Debug/net7.0/Music Theory Chord Translator.csproj.AssemblyReference.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/obj/Debug/net7.0/Music Theory Chord Translator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/obj/Debug/net7.0/Music Theory Chord Translator.AssemblyInfoInputs.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/obj/Debug/net7.0/Music Theory Chord Translator.AssemblyInfo.cs
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/obj/Debug/net7.0/Music Theory Chord Translator.csproj.CoreCompileInputs.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/obj/Debug/net7.0/Music Theory Chord Translator.dll
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/obj/Debug/net7.0/refint/Music Theory Chord Translator.dll
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/obj/Debug/net7.0/Music Theory Chord Translator.pdb
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/obj/Debug/net7.0/Music Theory Chord Translator.genruntimeconfig.cache
+/Users/kristoferanderson/Documents/Code Kentucky/Final Project/Music Theory Chord Translator/Music Theory Chord Translator/obj/Debug/net7.0/ref/Music Theory Chord Translator.dll
